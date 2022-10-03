@@ -6,10 +6,18 @@
   "description": "**Project: ChoresCount**",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "script": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoPetit95/Module1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeoPetit95/Module1/issues"
+  },
+  "homepage": "https://github.com/LeoPetit95/Module1#readme"
 }
